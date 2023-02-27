@@ -10,22 +10,22 @@
 
 - [ ] local variables 
 - [ ] abstract data types 
-- [ ] main program and subroutines 
+- [x] main program and subroutines 
 - [ ] objects and classes 
 
 
 ### 02. What are some advantages of object-oriented programming in a language like Java? Choose the three correct answers. 
 
-- [ ] abstract data types 
+- [x] abstract data types 
 - [ ] computing efficiency 
-- [ ] data management 
-- [ ] mimic the real-world structure of the problem 
+- [x] data management 
+- [x] mimic the real-world structure of the problem 
 
 
 ### 03. Sam was asked to create a DeliveryDriver class. Sam thought about the problem, and reduced it to its most essential aspects… things like takeOrder, DeliveryArea, etc. She ignored things that were not important in the context, like the driver's height or eye colour. She just applied an important object-oriented design principle. Which of these concepts best describes what she just did? 
 ![image1](../Week-2/Media/image1.png)
 - [ ] encapsulation 
-- [ ] abstraction 
+- [x] abstraction 
 - [ ] decomposition 
 - [ ] generalization 
 
@@ -35,20 +35,20 @@
 - [ ] decomposition 
 - [ ] generalization 
 - [ ] abstraction 
-- [ ] encapsulation 
+- [x] encapsulation 
 
 
 ### 05. Sam decided that the DeliveryDriver class was getting too complex, so she split it up, moving its behaviour into several related classes, like DeliveryCar and DeliveryOrder. She just demonstrated which important object-oriented design principle? 
 
 - [ ] generalization
 - [ ] abstraction
-- [ ] decomposition
+- [x] decomposition
 - [ ] encapsulation 
 
 
 ### 06. Sam realized that her DeliveryDriver class had some behaviour and attributes that could be shared by other classes, like BusDriver and TaxiDriver, so she made a class called Driver that these classes inherited behaviour from. Which object-oriented design principle did she use? 
 
-- [ ] generalization 
+- [x] generalization 
 - [ ] abstraction 
 - [ ] encapsulation 
 - [ ] decomposition 
@@ -57,23 +57,23 @@
 ### 07. Which keywords allow your classes to achieve polymorphism in Java? Choose the two correct answers. 
 
 - [ ] interfaces 
-- [ ] implements 
+- [x] implements 
 - [ ] inherits 
-- [ ] extends 
+- [x] extends 
 
 
 ### 08. Which is the proper way to show inheritance in a UML class diagram? Choose one of the four options below: 
 ![image2](../Week-2/Media/image2.png)
 - [ ] a)  
 - [ ] b) 
-- [ ] c) 
+- [x] c) 
 - [ ] d) 
 
 
 ### 09. Which is the proper way to show an abstract method in a UML class diagram? 
 
 - [ ] «anOperation()» 
-- [ ] anOperation() 
+- [x] _anOperation()_ 
 - [ ] abstract anOperation() 
 - [ ] #anOperation() 
 
@@ -81,7 +81,7 @@
 ### 10. Which UML class diagram is a good example of encapsulation? Choose one of the four options below: 
 ![image3](../Week-2/Media/image3.png)
 - [ ] a)  
-- [ ] b) 
+- [x] b) 
 - [ ] c) 
 - [ ] d) 
 
@@ -91,7 +91,7 @@
 ______ String message; 
 
 ```
-
+private
 ```
 
 
@@ -99,7 +99,7 @@ ______ String message;
 
 - [ ] association 
 - [ ] aggregation 
-- [ ] composition 
+- [x] composition 
 - [ ] formation 
 
 --- 
