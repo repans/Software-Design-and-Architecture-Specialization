@@ -8,34 +8,34 @@
 
 ### 01. Which of these terms are used to describe coupling? Choose the 3 correct answers. 
 
-- [ ] ease 
+- [x] ease 
 - [ ] frequency 
-- [ ] flexibility 
-- [ ] degree 
+- [x] flexibility 
+- [x] degree 
 - [ ] exposed 
 
 
 ### 02. Which is the most desirable? 
 
 - [ ] low cohesion, tight coupling 
-- [ ] high cohesion, loose coupling 
+- [x] high cohesion, loose coupling 
 - [ ] low cohesion, loose coupling  
 - [ ] high cohesion, tight coupling 
 
 
 ### 03. What are some keywords you might use for information hiding in Java? Select the three correct answers. 
 
-- [ ] protected  
+- [x] protected  
 - [ ] abstract 
-- [ ] private 
-- [ ] [none] 
+- [x] private 
+- [x] [none] 
 
 
 ### 04. What are the best ways to promote Conceptual Integrity in your software? Choose the two correct answers. 
   
 - [ ] Delegating development of different components to different teams  
-- [ ] Planning the architecture of the system  
-- [ ] Regular code reviews   
+- [x] Planning the architecture of the system  
+- [x] Regular code reviews   
 - [ ] Good commenting 
 
 
@@ -43,32 +43,32 @@
   
 - [ ] generalization  
 - [ ] abstraction  
-- [ ] encapsulation   
+- [x] encapsulation   
 - [ ] decomposition 
 
 
 ### 06. Which of these sequence diagrams is correct? 
-![q_image_06]() 
+![q_image_06](../Week-3/Media/q_image_06.jpg) 
   
 - [ ] a)  
-- [ ] b)  
+- [x] b)  
 - [ ] c)  
 - [ ] d)  
 
 
 ### 07. What are elements of a state in a State diagram (see diagram)? Choose the three correct answers.  
-![q_image_07]() 
+![q_image_07](../Week-3/Media/q_image_07.png) 
   
-- [ ] activities  
-- [ ] state variables  
-- [ ] state name  
+- [x] activities  
+- [x] state variables  
+- [x] state name  
 - [ ] events  
 - [ ] responsibilities  
 
 
 ### 08. When is Model Checking conducted?  
   
-- [ ] After development  
+- [x] After development  
 - [ ] After deployment  
 - [ ] During planning  
 - [ ] During development  
@@ -76,16 +76,16 @@
 
 ### 09. What are the phases of Model Checking? Choose the 3 correct answers. 
 
-- [ ] Running Phase
+- [x] Running Phase
 - [ ] Counterexample Phase
 - [ ] Model Simulation
-- [ ] Modeling Phase. 
-- [ ] Analysis Phase  
+- [x] Modeling Phase. 
+- [x] Analysis Phase  
 
 
 ### 10. During model checking, what is the name for a violation of the desired properties of the model?  
 
-- [ ] Counterexample 
+- [x] Counterexample 
 - [ ] Redevelopment  
 - [ ] Error  
 - [ ] Model Gap  
@@ -95,16 +95,16 @@
  
 - [ ] Mutual lock  
 - [ ] Transition lock  
-- [ ] Deadlock  
+- [x] Deadlock  
 - [ ] State lock  
 
 
 ### 12. Choose the three examples of inheritance used poorly:  
   
-- [ ] A method in the superclass is overwritten with different behaviour by a subclass.  
-- [ ] Inheritance is used to share behaviour without specializing   
+- [x] A method in the superclass is overwritten with different behaviour by a subclass.  
+- [x] Inheritance is used to share behaviour without specializing   
 - [ ] The subclasses inherit methods from the superclass and have their own specific, related methods.  
-- [ ] A subclass inherits methods from the superclass and adds extra, new, unrelated functionality  
+- [x] A subclass inherits methods from the superclass and adds extra, new, unrelated functionality  
 
 
 
