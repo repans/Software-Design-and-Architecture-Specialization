@@ -104,9 +104,9 @@ technical
 - [x] Store  
 
 
-### 13. Question 13
-In order to provide good encapsulation, fill-in-the-blanks on this UML class diagram: (Replace the underscores `_` from top to bottom with minus signs ("-") or plus signs ("+"); your answer will be a string of six + or - signs with no spaces)  
-![q_image_13](../Week-4/Media/q_image_13.png)
+### 13. In order to provide good encapsulation, fill-in-the-blanks on this UML class diagram: (Replace the underscores `_` from top to bottom with minus signs ("-") or plus signs ("+"); your answer will be a string of six + or - signs with no spaces)  
+  
+![q_image_13](../Week-4/Media/q_image_13.png) 
 ```
 --++++
 ```
@@ -115,7 +115,7 @@ In order to provide good encapsulation, fill-in-the-blanks on this UML class dia
 ### 14. You are writing a simple soccer video game. Select the best example of proper abstraction: 
 ![q_image_14](../Week-4/Media/q_image_14.png) 
   
-- [a] a)  
+- [x] a)  
 - [ ] b)  
 - [ ] c)  
 - [ ] d)  
