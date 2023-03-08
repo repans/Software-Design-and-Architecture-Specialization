@@ -45,7 +45,7 @@
 
 
 ### 06. Which of the following diagrams shows the Adapter pattern?
-![image_q6]((../Week-1/Media/image_q6.png) )
+![image_q6](../Week-1/Media/image_q6.png)
   
 - [ ] a) 
 - [ ] b)  
