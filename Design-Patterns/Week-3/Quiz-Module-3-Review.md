@@ -136,10 +136,10 @@ public class O {
 
 ### 10. Why is it important to avoid message chains whenever possible?
    
-- [x] It's a workaround to get to private methods, which are important for encapsulation.   
+- [ ] It's a workaround to get to private methods, which are important for encapsulation.   
 - [ ] If an unexpected object is returned, this could easily lead to runtime errors.    
 - [ ] They lower cohesion in your class.   
-- [ ] The resulting code is usually rigid and complex. 
+- [x] The resulting code is usually rigid and complex. 
 
 
 ### 11. Look at the code snippet. Which code smell do you detect?
