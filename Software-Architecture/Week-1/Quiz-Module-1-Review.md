@@ -35,7 +35,7 @@
 
 ### 04. William is drawing out a component diagram. One of his classes needs an interface from another component. Which of these connectors should he use on the component that needs an interface from another component?
 
-  ![q_image_04](../Week-1/Media/q_image_04.jpg)
+  ![q_image_04](../Week-1/Media/q_image_04.png)
  
 - [ ] a) 
 - [ ] b) 
@@ -45,7 +45,7 @@
 
 ### 05. Cécile is putting together a Package diagram. How can she show that a package has an interface? Select the 2 correct answers.
 
-  ![q_image_05](../Week-1/Media/q_image_05.jpg)
+  ![q_image_05](../Week-1/Media/q_image_05.png)
  
 - [ ] a) 
 - [x] b) 
@@ -71,7 +71,7 @@
 
 ### 08. How is a hardware device shown in a deployment diagram?
 
-  ![q_image_08](../Week-1/Media/q_image_08.jpg) 
+  ![q_image_08](../Week-1/Media/q_image_08.png) 
  
 - [ ] a) 
 - [ ] b) 
@@ -81,7 +81,7 @@
 
 ### 09. What kind of UML diagram is shown here? 
 
-  ![q_image_09](../Week-1/Media/q_image_09.jpg) 
+  ![q_image_09](../Week-1/Media/q_image_09.png) 
  
 - [x] Activity diagram  
 - [ ] State diagram  
