@@ -25,9 +25,9 @@
 ### 03. To which view would the Package Diagram belong? Remember that a package diagram shows the packages that make up a software and how they are related.
  
 - [ ] process view  
-- [x] logical view 
 - [ ] physical view  
-- [ ] development view
+- [x] development view 
+- [ ] logical view  
 
 
 ### 04. Which of these statements about Component Diagrams is true?
@@ -42,9 +42,9 @@
 
  ![q_image_05](../Week-4/Media/q_image_05.png) 
  
-- [x] a) 
+- [ ] a) 
 - [ ] b) 
-- [ ] c) 
+- [x] c) 
 - [ ] d)
 
 
@@ -72,8 +72,8 @@
  
  ![q_image_08](../Week-4/Media/q_image_08.png) 
  
-- [x] a) 
-- [ ] b) 
+- [ ] a) 
+- [x] b) 
 - [ ] c) 
 - [ ] d)
 
@@ -88,10 +88,10 @@
 
 ### 10. What is an abstract data type?
  
-- [x] a data type that is not actually storing data; instead it is used to define interfaces  
 - [ ] an interface that defines how to store data in a class  
 - [ ] a data type that dynamically allows the storage of different primitives 
-- [ ] a data schema that is defined by the developer
+- [x] a data schema that is defined by the developer 
+- [ ] a data type that is not actually storing data; instead it is used to define interfaces  
 
 
 ### 11. Which of these are advantages of main program and subroutine architectural style? Select two correct answers.
@@ -107,8 +107,8 @@
  ![q_image_12](../Week-4/Media/q_image_12.png) 
  
 - [ ] a) 
-- [x] b) 
-- [ ] c) 
+- [ ] b) 
+- [x] c) 
 - [ ] d)
 
 
@@ -214,10 +214,10 @@
 
 ### 25. General quality attributes like performance and security have more specific components like throughput and latency for performance. What are these called?
  
-- [ ] attribute refinement 
+- [x] attribute refinement 
 - [ ] architecture specifications 
-- [x] architecturally significant requirements 
-- [ ] sensitivity points
+- [ ] sensitivity points 
+- [ ] architecturally significant requirements 
 
 
 ### 26. Which strategy is NOT part of delivering a high-quality system?
