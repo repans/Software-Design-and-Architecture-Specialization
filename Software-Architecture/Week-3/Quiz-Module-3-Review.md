@@ -50,8 +50,8 @@
 
   **[Q5]** is the part of the system affected by the stimulus. What is this called?
 
-- [-] component 
-- [ ] artifact 
+- [ ] component 
+- [x] artifact 
 - [ ] context 
 - [ ] process 
 
@@ -59,8 +59,8 @@
 ### 06. Which of these could be considered under the environment in a quality attribute scenario?
 
 - [ ] send error to external system 
-- [ ] recovering from error
-- [-] internal subsystems 
+- [x] recovering from error
+- [ ] internal subsystems 
 - [ ] unrecognized system request 
 
 
