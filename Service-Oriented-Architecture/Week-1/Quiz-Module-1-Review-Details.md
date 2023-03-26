@@ -1,6 +1,6 @@
 # Module 1 Review Details 
 
-Question: You are probably using the internet to do some of your personal banking. There is a page that shows your accounts and their balances, often called something like "Account Summary" or "Account Overview." You must click on an account to begin managing it. Which type of web page is this?
+### Question: You are probably using the internet to do some of your personal banking. There is a page that shows your accounts and their balances, often called something like "Account Summary" or "Account Overview." You must click on an account to begin managing it. Which type of web page is this?
   
 a. web service    
 b. web app  
@@ -19,7 +19,7 @@ A web app is a software application that runs in a web browser and is accessed o
 
 --------------   
 
-Question: Another web page allows interacting with a spreadsheet in a browser. You can enter in values, sum them up, perform operations on them, format them, etc. What type of web page is this? 
+### Question: Another web page allows interacting with a spreadsheet in a browser. You can enter in values, sum them up, perform operations on them, format them, etc. What type of web page is this? 
   
 a. dynamic web page   
 b. web service   
@@ -38,7 +38,7 @@ A static web page displays the same content each time it is viewed and does not 
 
 --------------   
 
-Question: Consider the two statements. Choose the one correct option. 
+### Question: Consider the two statements. Choose the one correct option. 
 
   1. JSON is a markup language
   2. JSON can easily be converted into a Javascript object
@@ -56,7 +56,7 @@ JSON can easily be converted into a JavaScript object, and vice versa, as it is 
 
 --------------   
 
-Question: Which of these is NOT a basic standard of the World Wide Web?
+### Question: Which of these is NOT a basic standard of the World Wide Web?
 
 a. URL   
 b. TCP   
@@ -73,7 +73,7 @@ FTP, on the other hand, is a protocol used for transferring files over the inter
 
 --------------   
 
-Question: There is an HTTP method that allows you to send, create or update a resource, but allows the server to decide its location and identity. Which HTTP method is this?
+### Question: There is an HTTP method that allows you to send, create or update a resource, but allows the server to decide its location and identity. Which HTTP method is this?
 
 a. SEND   
 b. PUT   
@@ -90,7 +90,7 @@ The GET method is used to retrieve information about a resource from the server,
 
 --------------   
 
-Question: Which of these is often used to add dynamic content to a web page?
+### Question: Which of these is often used to add dynamic content to a web page?
 
 a. **Javascript**  
 b. HTML   
@@ -107,7 +107,7 @@ HTML DOM (Document Object Model) is a programming interface for web documents th
 
 --------------   
 
-Question: What are the three high-level components involved in a remote procedural call?
+### Question: What are the three high-level components involved in a remote procedural call?
 
 a. **client, server, interface definition language**   
 b. marshal, client, server   
@@ -133,7 +133,7 @@ d. IDL source code, IDL compiler, interface headers - This list includes the com
 
 --------------   
 
-Question: The process of establishing a connection between the client stub and server stub is called 
+### Question: The process of establishing a connection between the client stub and server stub is called 
 
 a. marshalling   
 b. interfacing   
@@ -148,7 +148,7 @@ Marshalling refers to the process of converting the parameters of a remote proce
 
 --------------   
 
-Question: What are the advantages of Common Object Request Broker Architecture (CORBA)? Choose the two correct answers. 
+### Question: What are the advantages of Common Object Request Broker Architecture (CORBA)? Choose the two correct answers. 
 
 a. Dynamic binding is simple   
 b. **Objects are essentially independent of their physical or virtual location**.  
@@ -174,7 +174,7 @@ d. Method calls can be treated locally or remotely: This is a feature of many RP
 
 --------------   
 
-Question: Which of these are desirable characteristics of a web service? Select the three correct answers.  
+### Question: Which of these are desirable characteristics of a web service? Select the three correct answers.  
 
 a. **modular**    
 b. simple   
@@ -199,7 +199,7 @@ b. Simple: While simplicity can be desirable in some cases, it is not a universa
 
 --------------   
 
-Question: Which of these responsibilities does the client stub have in a middleware-based architecture that uses RPC? Choose the three correct answers. 
+### Question: Which of these responsibilities does the client stub have in a middleware-based architecture that uses RPC? Choose the three correct answers. 
 
 a. Invoking the server application directly    
 b. **Establishing a connection with the server**   
@@ -224,7 +224,7 @@ a. Invoking the server application directly: The client stub does not invoke the
 
 --------------   
 
-Question: What is the main difference between a web service and a web application? 
+### Question: What is the main difference between a web service and a web application? 
 
 a. **Web applications are presented through a browser**   
 b. Web services are mostly meant for business applications  
