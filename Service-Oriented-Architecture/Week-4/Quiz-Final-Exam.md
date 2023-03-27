@@ -9,39 +9,39 @@
 ### 01. Marlon is creating a web page. It's a simple page, which has a list of his current projects, a short bio about himself, and some GIF images of some of those same projects that he uploaded to the server himself. What type of web page is this?
   
 - [ ] dynamic web page   
-- [ ] static web page   
+- [x] static web page   
 - [ ] web app   
 - [ ] web service  
 
   
 ### 02. Which of these examples is a web application?
   
+- [x] online poker  
 - [ ] a website conducting a survey   
 - [ ] an online shopping platform   
 - [ ] a blog   
-- [ ] online poker  
 
   
 ### 03. Which of these formats can be used to express and structure content to be sent over the internet? Choose the three correct answers:
   
-- [ ] JSON   
-- [ ] HTML   
+- [x] JSON   
+- [x] HTML   
 - [ ] CSS    
-- [ ] XML  
+- [x] XML  
 
   
 ### 04. What are the essential parts of an HTTP request? Choose the three correct answers.
   
 - [ ] a message body  
-- [ ] request-line   
-- [ ] a blank space   
-- [ ] headers 
+- [x] request-line   
+- [x] a blank space   
+- [x] headers 
 
   
 ### 05. Which of these are essential parts of an HTTP server response? Choose the two correct answers.
   
-- [ ] headers  
-- [ ] status-line   
+- [x] headers  
+- [x] status-line   
 - [ ] a message body   
 - [ ] response-line  
 
@@ -51,7 +51,7 @@
   1. It can allow you to generate content within the browser  
   2. A Javascript file must be sent in addition to an HTML file  
   
-- [ ] Only the first statement is true   
+- [x] Only the first statement is true   
 - [ ] Only the second statement is true   
 - [ ] Both statements are true  
 - [ ] Neither statement is true  
@@ -61,7 +61,7 @@
   
 - [ ] invocation   
 - [ ] binding    
-- [ ] marshalling   
+- [x] marshalling   
 - [ ] blocking  
 
   
@@ -72,24 +72,24 @@
   
 - [ ] Only the first statement is true   
 - [ ] Only the second statement is true   
-- [ ] Both statements are true   
+- [x] Both statements are true   
 - [ ] Neither statement is true  
 
   
 ### 09. Which of these can be found in Common Object Request Broker Architecture (CORBA)? Choose the three correct answers.
   
-- [ ] facilities   
-- [ ] object request broker  
+- [x] facilities   
+- [x] object request broker  
 - [ ] client and server stubs    
-- [ ] interface definition language  
+- [x] interface definition language  
 
   
 ### 10. What are some disadvantages of CORBA? Choose the two correct answers.
   
-- [ ] Clients and servers must be implemented in the same language   
+- [x] Implementation is difficult  
+- [x] Objects are always called remotely    
 - [ ] Dynamic binding is impossible   
-- [ ] Objects are always called remotely    
-- [ ] Implementation is difficult  
+- [ ] Clients and servers must be implemented in the same language   
 
 
 ### 11. In what format are SOAP messages represented?
@@ -97,13 +97,13 @@
 - [ ] HTML   
 - [ ] SOAP formatting is not based on any other format   
 - [ ] JSON   
-- [ ] XML 
+- [x] XML 
 
 
 ### 12. Which part of a SOAP message can be included but is NOT required?
   
 - [ ] envelope  
-- [ ] header  
+- [x] header  
 - [ ] HTTP method   
 - [ ] body  
 
@@ -111,13 +111,13 @@
 ### 13. True or False: a SOAP message must be sent over HTTP.
   
 - [ ] True   
-- [ ] False
+- [x] False
 
 
 ### 14. Which type of description will a service requester need to bind to a web service?
   
 - [ ] WS-Description   
-- [ ] WSDL   
+- [x] WSDL   
 - [ ] SOAP   
 - [ ] UDDI  
 
@@ -127,12 +127,12 @@
 - [ ] interfaces   
 - [ ] bindings   
 - [ ] portTypes   
-- [ ] services  
+- [x] services  
 
 
 ### 16. What does the types section of a WSDL 2.0 document allow developers to do?
   
-- [ ] Define abstract data types   
+- [x] Define abstract data types   
 - [ ] Specify document-style or RPC-style interaction    
 - [ ] Specify which communications protocol is used (HTTP, SMTP…)   
 - [ ] Specifies the type of interaction (request-response, solicit-response…)  
@@ -141,8 +141,8 @@
 ### 17. Which aspects of web services does UDDI allow you to implement? Choose the two correct answers.
   
 - [ ] invocation   
-- [ ] publication   
-- [ ] discovery   
+- [x] publication   
+- [x] discovery   
 - [ ] composition  
 
 
@@ -150,24 +150,24 @@
   
 - [ ] blue pages   
 - [ ] green pages    
-- [ ] yellow pages  
+- [x] yellow pages  
 - [ ] white pages  
 
 
 ### 19. Under which data structure of UDDI will you find a reference to the WSDL description?
   
 - [ ] businessEntity   
-- [ ] tModel   
+- [x] tModel   
 - [ ] businessService  
 - [ ] serviceInterface
 
 
 ### 20. What is the difference between coordination and composition in the context of services?
   
-- [ ] coordination is focused on pairwise interactions  
+- [ ] composition uses only objects  
 - [ ] coordination can only be done in a synchronous way   
-- [ ] composition exposes a combination of services as another service  
-- [ ] composition uses only objects
+- [x] composition exposes a combination of services as another service  
+- [ ] coordination is focused on pairwise interactions  
 
 
 ### 21. Consider the following two statements. Choose the one correct option.
@@ -176,7 +176,7 @@
   2. WS-BPEL has other features such as conditional logic and the ability to store state.  
   
 - [ ] Only the first statement is true  
-- [ ] Only the second statement is true  
+- [x] Only the second statement is true  
 - [ ] Both statements are true    
 - [ ] Both statements are false  
 
@@ -184,31 +184,31 @@
 ### 22. What does it mean that RESTful services are cacheable?
   
 - [ ] the service logic can be stored on the client   
-- [ ] the client can store a version of the server's response    
+- [x] the client can store a version of the server's response    
 - [ ] the server can store the state of the interaction    
 - [ ] the server can queue and prioritize requests  
 
 
 ### 23. Which of these formats can be used within the invocation of a REST service? Choose the three correct answers.
   
-- [ ] simple text   
-- [ ] JSON  
-- [ ] XML    
+- [x] simple text   
+- [x] JSON  
+- [x] XML    
 - [ ] WSDL  
 
 
 ### 24. Which of these is a good name for a REST resource? In other words, which of these resource names follow best practices? Choose the two correct answers.
   
 - [ ] /car/2   
-- [ ] /cars/2/tires    
+- [x] /cars/2/tires    
 - [ ] /getCar/2   
-- [ ] /cars/2  
+- [x] /cars/2  
 
 
 ### 25. You received an HTTP status code 201 from the server, which means that a resource was created. In a well-designed REST service, which HTTP methods did you send to the server?
   
 - [ ] GET  
-- [ ] POST   
+- [x] POST   
 - [ ] PUT  
 - [ ] DELETE  
 
@@ -217,14 +217,14 @@
   
 - [ ] Host   
 - [ ] Content-Encoding:  
+- [x] Accept:   
 - [ ] Content-Type:    
-- [ ] Accept:   
 
 
 ### 27. What is the most important difference between WS*-style web services (which utilize SOAP, WSDL, etc.) and RESTful web services?
   
 - [ ] Their differences are very minor  
-- [ ] RESTful services are simpler    
+- [x] RESTful services are simpler    
 - [ ] They do not use the same transfer protocol    
 - [ ] WS* are more secure  
 
@@ -233,16 +233,16 @@
   
 - [ ] In the HTTP request in XML format  
 - [ ] As parameters in the URL  
-- [ ] In the HTTP header    
+- [x] In the HTTP header    
 - [ ] In the HTTP request in JSON format  
 
 
 ### 29. What are some advantages of microservices architecture? Select the two correct answers.
   
-- [ ] Scaling through replication   
+- [x] Scaling through replication   
 - [ ] No centralized management   
 - [ ] Good performance  
-- [ ] Services can be developed in different languages 
+- [x] Services can be developed in different languages 
 
 
 ### 30. Consider the following two statements about microservices architecture. Choose the one correct option. 
@@ -252,7 +252,7 @@
   
 - [ ] Only the first statement is true.  
 - [ ] Only the second statement is true.    
-- [ ] Both statements are true.  
+- [x] Both statements are true.  
 - [ ] Neither statement is true
 
 
