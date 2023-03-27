@@ -11,7 +11,7 @@ Think like an expert architect and create quality software using design patterns
 | Courese 1 | [Object-Oriented Design](Object-Oriented-Design)               |  
 | Courese 2 | [Design Patterns](Design-Patterns)                             |  
 | Courese 3 | [Software Architecture](Software-Architecture)                 |   
-| Courese 1 | [Service-Oriented Architecture](Service-Oriented-Architecture) | 
+| Courese 4 | [Service-Oriented Architecture](Service-Oriented-Architecture) | 
 
 
 > Note: Coursera updates quiz questions after some time. 
